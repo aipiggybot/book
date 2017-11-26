@@ -1,26 +1,25 @@
 # book
 
 ```swift
-
 var str = "Hello, playground"
 
 extension String {
-  
+
   subscript (index: Int) -> Character {
     let charIndex = self.index(self.startIndex, offsetBy:index)
     return self[charIndex]
   }
-  
+
   subscript (range: Range<Int>) -> String {
     let startIndex = self.index(self.startIndex, offsetBy:range.lowerBound)
-    
+
     if self.count > range.upperBound {
       let endIndex = self.index(startIndex, offsetBy:range.upperBound)
       return String(self[startIndex..<endIndex])
     }
     return String(self[startIndex..<self.endIndex])
   }
-  
+
   // BE  Begin End
   func findBE(_ str: String) -> (Int,Int)? {
     if let r = self.range(of: str) {
@@ -44,9 +43,6 @@ if let (x,y) = "Test box".findBE("box") {
 }
 
 str.find("play")  // 7
-
-
-
 ```
 
 
