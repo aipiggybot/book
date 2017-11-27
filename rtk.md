@@ -1,2 +1,63 @@
-sample
+---
+layout: post
+title:  "PA Right To Know Law"
+date:   2017-10-15 19:35:26 -0400
+comments: false
+categories: law
+---
+
+
+## Technology and Open Government
+
+This is a beautiful written law.
+
+> The objective of the Right to Know Law ... is to empower citizens by affording them
+> access to information concerning the activities of their government."  *SWB Yankees L.L.C. v.
+> Wintermantel, 45 A.3d 1029, 1041 (Pa. 2012).*  Further, this important open-government law
+> is "designed to promote access to official government information in order to prohibit secrets,
+> scrutinize the actions of public officials and make public officials accountable for
+> their actions."
+
+Unfortunately, it requires some knowledge to use it
+effectively.  For example, it helps to review past cases to get a full
+understanding of this powerful tool, and that's where technology could be helpful.
+
+## Search Past Cases
+
+The first step is searching past final determinations.
+
+[Final Determinations](http://www.openrecords.pa.gov/Appeals/FinalDeterminations.cfm)
+
+
+
+
+[Facebook](http://www.openrecords.pa.gov/Documents/FinalDet/29090.pdf)
+
+[http://www.openrecords.pa.gov/Documents/FinalDet/29618.pdf](http://www.openrecords.pa.gov/Documents/FinalDet/29618.pdf)
+
+## References
+
+[right-to-know](http://pafoic.org/right-to-know-law/)
+
+[section 708](http://pafoic.org/right-to-know-law/#708)
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=671657696349259";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<!--  Enter text below, if you want -->
+
+
+<div class="fb-comments"  data-numposts="5"></div>
+
+
+
 
