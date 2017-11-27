@@ -45,9 +45,19 @@ if let (x,y) = "Test box".findBE("box") {
 str.find("play")  // 7
 ```
 
-
-
 > This is a block quote
+
+
+
+```mermaid
+graph LR
+A[Document] -- Check Cases --> B((Submit))
+A --> C(Round Rect)
+B --> D{Contest}
+C --> D
+
+
+```
 
 
 
